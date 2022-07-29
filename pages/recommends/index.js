@@ -11,6 +11,7 @@ export default function Recommend() {
   useEffect(() => {
     async function getPost() {
       const response = await localhost.get("/goods?configType=4");
+      console.log(response);
       setRecommends(response.data.data);
     }
     getPost();

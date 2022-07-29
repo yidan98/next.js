@@ -64,6 +64,10 @@ export default function Home() {
           <Link href="/category">
             <a>category</a>
           </Link>
+          /{" "}
+          <Link href="/serch">
+            <a>serch</a>
+          </Link>
         </p>
       </main>
     </div>

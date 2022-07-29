@@ -1,0 +1,25 @@
+.p {
+  display: flex;
+  margin-bottom: 15px;
+  border-top: 2px solid #009e96;
+  background-color: #f7f7f7;
+  align-items: center;
+  justify-content: space-between;
+}
+.btn2 {
+  color: #fff;
+  border-color: #ccc;
+  background-color: #ccc;
+  height: 50px;
+  width: 300px;
+}
+.btn {
+  border-color: #fff;
+  background-color: #fff;
+  height: 50px;
+  width: 300px;
+}
+
+.img {
+  width: 300px;
+}

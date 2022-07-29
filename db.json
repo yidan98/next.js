@@ -1,0 +1,97 @@
+{
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "sofa": [
+    {
+      "feature": ["リクライニング", "リクライニング14段", "リクライニング42段"]
+    }
+  ],
+  "sofaList": [
+    {
+      "sofaId": 1,
+      "price": 38900,
+      "sofaName": "2人用布張りソファ(Nポケット)",
+      "feature": "リクライニング",
+      "type": "ハイバック",
+      "meterial": "ポケットコイル",
+      "size": "２人用",
+      "introduction": "座面普通",
+      "room": "一人暮らし",
+      "color": "グレー",
+      "style": "シンプル",
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/1149161/114916101.jpg?ccp=1658797200&imwidth=570&imdensity=1&ts=20211015100642937"
+    },
+    {
+      "sofaId": 2,
+      "price": 44900,
+      "sofaName": "布張りソファ(CA10 DR)",
+      "feature": "リクライニング",
+      "type": "ハイバック",
+
+      "meterial": "羽",
+
+      "size": "２人用",
+      "introduction": "座面やや柔らかめ",
+      "room": "ベットルーム",
+      "color": "ブルー",
+      "style": "ナチュラル",
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/1149151/114915101.jpg?ccp=1658797200&imwidth=415&imdensity=1&ts=20210701110627786"
+    },
+    {
+      "sofaId": 3,
+      "price": 64900,
+      "sofaName": "肘無し布張りソファ(CA10 DR)",
+      "feature": "リクライニング",
+
+      "size": "２人用",
+      "introduction": "座面やや硬め",
+
+      "color": "ピンク",
+
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/5620176/562017601.jpg?ccp=1658822400&imwidth=415&imdensity=1&ts=20190725133730060"
+    },
+    {
+      "sofaId": 4,
+      "price": 55900,
+      "sofaName": "3人用布張りソファベッド",
+      "feature": "リクライニング14段",
+      "size": "3人用",
+      "introduction": "座面やや柔らかめ",
+      "room": "ベットルーム",
+      "color": "レッド",
+
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/1146702/114670201.jpg?ccp=1658822400&imwidth=415&imdensity=1&ts=20220701122231096"
+    },
+    {
+      "sofaId": 5,
+      "price": 36900,
+      "sofaName": "2人用布張りソファ(Nポケット)",
+      "feature": "リクライニング",
+      "type": "ハイバック",
+      "meterial": "ポケットコイル",
+      "size": "２人用",
+      "introduction": "座面普通",
+      "room": "一人暮らし",
+      "color": "グレー",
+      "style": "シンプル",
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/1149161/114916101.jpg?ccp=1658797200&imwidth=570&imdensity=1&ts=20211015100642937"
+    },
+    {
+      "sofaId": 6,
+      "price": 47900,
+      "sofaName": "布張りソファ(CA10 DR)",
+      "feature": "リクライニング",
+      "type": "ハイバック",
+
+      "meterial": "羽",
+
+      "size": "２人用",
+      "introduction": "座面やや柔らかめ",
+      "room": "ベットルーム",
+      "color": "ブルー",
+      "style": "ナチュラル",
+      "pic": "https://www.nitori-net.jp/ecstatic/image/product/1149151/114915101.jpg?ccp=1658797200&imwidth=415&imdensity=1&ts=20210701110627786"
+    }
+  ]
+}
